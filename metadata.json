@@ -1,0 +1,5 @@
+{
+  "name": "Rainbow Alliance Tier List",
+  "description": "An interactive tier list application based on the Rainbow Alliance concept. Users can add, categorize, and re-organize items into seven color-coded groups representing different levels of alliance or opposition using drag-and-drop.",
+  "requestFramePermissions": []
+}
